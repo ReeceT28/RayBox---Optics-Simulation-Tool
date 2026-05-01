@@ -1,6 +1,7 @@
 # 🌟 RayBox
 
 **RayBox** is a ray optics simulation tool that models various light phenomena, including **reflection**, **refraction**, and **Fresnel equations**. It’s designed for experimentation, visualization, and learning optics. RayBox was developed for the 2025 BPhO Computational Challenge however, I hope to keep on developing and improving it. 
+My project acheived **top 5** in the BPhO Computational Challenge, BOSH!
 
 ---
 ## Features
